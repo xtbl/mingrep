@@ -1,0 +1,12 @@
+Env var case_sensitive: false
+line case insensitive: I'm nobody! Who are you?
+line case insensitive: Are you nobody, too?
+line case insensitive: Then there's a pair of us - don't tell!
+line case insensitive: They'd banish us, you know.
+line case insensitive: 
+line case insensitive: How dreary to be somebody!
+line case insensitive: How public, like a frog
+line case insensitive: To tell your name the livelong day
+line case insensitive: To an admiring bog!
+Results:
+["Are you nobody, too?", "How dreary to be somebody!", "To tell your name the livelong day", "To an admiring bog!"]
